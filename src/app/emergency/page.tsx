@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import {useRouter} from 'next/navigation';
 import { AnalysisResult } from '@/lib/analyzer';
 
 export default function EmergencyPanicPage() {

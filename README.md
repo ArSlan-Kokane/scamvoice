@@ -1,11 +1,6 @@
 # 🎙️ ScamVoice
 
 > An AI-powered voice assistant that helps identify potential scam calls in real time and empowers users to make safer decisions.
-
-<p align="center">
-  <img src="assets/banner.png" alt="ScamVoice Banner" width="900"/>
-</p>
-
 ## 🌍 Overview
 
 ScamVoice was built during the **Google Hackathon** with one simple goal:
@@ -128,14 +123,6 @@ python app.py
 ```
 
 *(Modify these commands according to your project.)*
-
----
-
-## 📸 Screenshots
-
-| Home | Detection | Result |
-|------|-----------|---------|
-| Add Screenshot | Add Screenshot | Add Screenshot |
 
 ---
 

@@ -91,7 +91,7 @@ ScamVoice/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/sidcodes-07/ScamVoice-.git
+git clone https://github.com/ArSlan-Kokane/ScamVoice-.git
 ```
 
 ### Navigate to the project
